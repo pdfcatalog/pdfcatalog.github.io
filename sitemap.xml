@@ -3,7 +3,7 @@
 
     <!-- Sample URL entries -->
     <url>
-        <loc> < a href="https://pdfcatalog.site/PDF-Files/file1.pdf"> Rich Dad Poor Dad PDF</a></loc>
+        <loc>https://pdfcatalog.site/PDF-Files/file1.pdf</loc>
         <lastmod>2023-10-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
