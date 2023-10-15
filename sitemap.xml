@@ -3,17 +3,17 @@
 
     <!-- Sample URL entries -->
     <url>
-        <loc>https://pdfcatalog.site/PDF-Files/file1.pdf</loc>
-        <lastmod>2023-10-15</lastmod>
+        <loc>https://pdfcatalog.site/PDF-Files/pdf+on+rich+dad+poor+dad.pdf</loc>
+        <lastmod>10/13/23, 12:00:00 AM</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://pdfcatalog.site/PDF-Files/file2.pdf</loc>
-        <lastmod>2023-10-15</lastmod>
+        <loc>https://pdfcatalog.site/PDF-Files/pdf-on-rich-dad-poor-dad.pdf</loc>
+        <lastmod>10/13/23, 12:00:00 AM</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
+        <priority>0.9</priority>
     </url>
 
     <!-- Add more URLs as needed -->
